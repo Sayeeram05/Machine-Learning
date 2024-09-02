@@ -1,82 +1,950 @@
 {
     "Data": [
-      {
-        "tag": "start",
-        "patterns": [
-          "Hi",
-          "Hey",
-          "How are you",
-          "Is anyone there?",
-          "Hello",
-          "Good day"
-        ],
-        "responses": [
-          "Hey :-)",
-          "Hello, thanks for visiting",
-          "Hi there, what can I do for you?",
-          "Hi there, how can I help?"
-        ]
-      },
-      {
-        "tag": "end",
-        "patterns": ["Bye", "See you later", "Goodbye"],
-        "responses": [
-          "See you later, thanks for visiting",
-          "Have a nice day",
-          "Bye! Come back again soon."
-        ]
-      },
-      {
-        "tag": "restaurantinsidesrm",
-        "patterns": [
-            "What are the restaurants inside SRM?",
-            "List the top 5 restaurants inside SRM",
-            "Can you name some restaurants in SRM?",
-            "Tell me about dining options in SRM",
-            "Where can I eat inside SRM?"
-        ],
-        "responses": [
-            [
-            "Here are some popular restaurants inside SRM University:",
-            "1. Restaurant 1",
-            "2. Restaurant 2",
-            "3. Restaurant 3",
-            "4. Restaurant 4",
-            "5. Restaurant 5"
+        {
+            "tag": "start",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Namaste",
+                "How are you?",
+                "Is anyone there?",
+                "Good day",
+                "Hi there",
+                "Hey there",
+                "What's up?",
+                "Howdy",
+                "Greetings",
+                "Morning!",
+                "Afternoon!",
+                "Evening!",
+                "Hello ji",
+                "Hiya!",
+                "Yo!",
+                "What’s cooking?",
+                "How’s it going?",
+                "Nice to meet you!",
+                "Kya haal hai?",
+                "Sab theek?",
+                "Hello bhai",
+                "Kaise ho?"
             ],
-            [
-            "You can check out these restaurants inside SRM University:",
-            "1. Restaurant 1",
-            "2. Restaurant 2",
-            "3. Restaurant 3",
-            "4. Restaurant 4",
-            "5. Restaurant 5"
-            ],
-            [
-            "Some of the well-known restaurants within SRM University are:",
-            "1. Restaurant 1",
-            "2. Restaurant 2",
-            "3. Restaurant 3",
-            "4. Restaurant 4",
-            "5. Restaurant 5"
-            ],
-            [
-            "SRM University has several dining options including:",
-            "1. Restaurant 1",
-            "2. Restaurant 2",
-            "3. Restaurant 3",
-            "4. Restaurant 4",
-            "5. Restaurant 5"
-            ],
-            [
-            "For dining inside SRM University, you can visit:",
-            "1. Restaurant 1",
-            "2. Restaurant 2",
-            "3. Restaurant 3",
-            "4. Restaurant 4",
-            "5. Restaurant 5"
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! What can I do for you?",
+                "Hey! How can I help?",
+                "Namaste! What brings you here today?",
+                "Hi! How can I make your day better?"
             ]
-        ]
-      }
+            },
+            {
+            "tag": "stop",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Thanks for the help",
+                "Take care",
+                "Catch you later",
+                "Talk to you soon",
+                "Farewell",
+                "Have a great day",
+                "See you soon",
+                "Later",
+                "I’m off",
+                "I’m out",
+                "See ya",
+                "Until next time",
+                "Good night",
+                "Bye for now",
+                "Take it easy",
+                "Peace out",
+                "Adios",
+                "I’m heading out",
+                "Talk later",
+                "Gotta go",
+                "See you around",
+                "Be well"
+            ],
+            "responses": [
+                "See you later! Thanks for stopping by.",
+                "Goodbye! Have a great day.",
+                "Take care! Looking forward to our next chat.",
+                "Farewell! Come back anytime.",
+                "Bye for now! Stay safe."
+            ]
+        },
+        {
+            "tag": "NorthIndian_restaurant",
+            "patterns": [
+            "Where can I find a good North Indian restaurant?",
+            "Can you recommend a North Indian restaurant?",
+            "What are the top North Indian restaurants around?",
+            "List some popular North Indian restaurants",
+            "Tell me about some North Indian eateries",
+            "Which North Indian restaurants are the best?",
+            "Where should I go for North Indian food?",
+            "Give me a list of top North Indian restaurants",
+            "What’s the best North Indian restaurant here?",
+            "Top ten North Indian restaurants nearby",
+            "What are the top North Indian restaurants in town?",
+            "Where can I enjoy North Indian cuisine?",
+            "Suggest some top North Indian restaurants",
+            "List some top North Indian places",
+            "Can you suggest top North Indian eateries?",
+            "Where do you recommend for North Indian food?",
+            "What are some good North Indian dining options?",
+            "Where can I find the top North Indian restaurants?",
+            "Top 10 North Indian restaurants near me",
+            "What are the best North Indian spots here?"
+            ],
+            "responses": [
+            [
+                "Here are some top North Indian restaurants you might enjoy:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these popular North Indian restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might like these top North Indian spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some highly recommended North Indian restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These are the top-rated North Indian restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "SouthIndian_restaurant",
+            "patterns": [
+            "Tell me about some good South Indian restaurants",
+            "Where can I find the best South Indian food?",
+            "Can you recommend a South Indian restaurant?",
+            "What are the top South Indian eateries here?",
+            "Where should I go for South Indian cuisine?",
+            "List some popular South Indian restaurants",
+            "Where can I enjoy some great South Indian dishes?",
+            "What are the best South Indian restaurants nearby?",
+            "Top ten South Indian restaurants in the city",
+            "Give me a list of top South Indian eateries",
+            "What’s the best place for South Indian food?",
+            "Which South Indian restaurants are highly recommended?",
+            "Suggest some top South Indian dining spots",
+            "Where can I find top-rated South Indian restaurants?",
+            "What are the top South Indian places around here?",
+            "List some top South Indian restaurants",
+            "Can you suggest the best South Indian spots?",
+            "Where do you recommend for South Indian cuisine?",
+            "What’s the best South Indian restaurant near me?",
+            "Top 10 South Indian eateries nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular South Indian restaurants you might like:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great South Indian spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top South Indian eateries:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated South Indian restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These South Indian restaurants come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Kerala_restaurant",
+            "patterns": [
+            "Where can I find good Kerala restaurants?",
+            "Can you recommend a Kerala restaurant?",
+            "What are the top Kerala dining spots?",
+            "List some popular Kerala restaurants",
+            "Where should I go for Kerala cuisine?",
+            "Tell me about some good Kerala eateries",
+            "What are the best Kerala restaurants nearby?",
+            "Top ten Kerala restaurants in the city",
+            "Give me a list of top Kerala restaurants",
+            "Where can I enjoy some authentic Kerala food?",
+            "What’s the best Kerala restaurant here?",
+            "Which Kerala restaurants are highly rated?",
+            "Suggest some top Kerala dining options",
+            "Where can I find the top Kerala restaurants?",
+            "What are the top Kerala places around here?",
+            "List some top Kerala eateries",
+            "Can you suggest the best Kerala spots?",
+            "Where do you recommend for Kerala cuisine?",
+            "What’s the best place for Kerala food near me?",
+            "Top 10 Kerala restaurants nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular Kerala restaurants you might like:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great Kerala dining spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top Kerala restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated Kerala eateries:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These Kerala restaurants come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Chinese_restaurant",
+            "patterns": [
+            "Where can I find a good Chinese restaurant?",
+            "Can you recommend a Chinese restaurant?",
+            "What are the top Chinese dining spots?",
+            "List some popular Chinese restaurants",
+            "Where should I go for Chinese cuisine?",
+            "Tell me about some good Chinese eateries",
+            "What are the best Chinese restaurants nearby?",
+            "Top ten Chinese restaurants in the city",
+            "Give me a list of top Chinese restaurants",
+            "Where can I enjoy some authentic Chinese food?",
+            "What’s the best Chinese restaurant here?",
+            "Which Chinese restaurants are highly rated?",
+            "Suggest some top Chinese dining options",
+            "Where can I find the top Chinese restaurants?",
+            "What are the top Chinese places around here?",
+            "List some top Chinese eateries",
+            "Can you suggest the best Chinese spots?",
+            "Where do you recommend for Chinese cuisine?",
+            "What’s the best place for Chinese food near me?",
+            "Top 10 Chinese restaurants nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular Chinese restaurants you might like:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great Chinese dining spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top Chinese restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated Chinese eateries:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These Chinese restaurants come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Japanese_restaurant",
+            "patterns": [
+            "Where can I find a good Japanese restaurant?",
+            "Can you recommend a Japanese restaurant?",
+            "What are the top Japanese dining spots?",
+            "List some popular Japanese restaurants",
+            "Where should I go for Japanese cuisine?",
+            "Tell me about some good Japanese eateries",
+            "What are the best Japanese restaurants nearby?",
+            "Top ten Japanese restaurants in the city",
+            "Give me a list of top Japanese restaurants",
+            "Where can I enjoy some authentic Japanese food?",
+            "What’s the best Japanese restaurant here?",
+            "Which Japanese restaurants are highly rated?",
+            "Suggest some top Japanese dining options",
+            "Where can I find the top Japanese restaurants?",
+            "What are the top Japanese places around here?",
+            "List some top Japanese eateries",
+            "Can you suggest the best Japanese spots?",
+            "Where do you recommend for Japanese cuisine?",
+            "What’s the best place for Japanese food near me?",
+            "Top 10 Japanese restaurants nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular Japanese restaurants you might like:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great Japanese dining spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top Japanese restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated Japanese eateries:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These Japanese restaurants come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Veg_restaurant",
+            "patterns": [
+            "Where can I find a good vegetarian restaurant?",
+            "Can you recommend a vegetarian restaurant?",
+            "What are the top vegetarian dining spots?",
+            "List some popular vegetarian restaurants",
+            "Where should I go for vegetarian food?",
+            "Tell me about some good vegetarian eateries",
+            "What are the best vegetarian restaurants nearby?",
+            "Top ten vegetarian restaurants in the city",
+            "Give me a list of top vegetarian restaurants",
+            "Where can I enjoy some delicious vegetarian dishes?",
+            "What’s the best vegetarian restaurant here?",
+            "Which vegetarian restaurants are highly rated?",
+            "Suggest some top vegetarian dining options",
+            "Where can I find the top vegetarian restaurants?",
+            "What are the top vegetarian places around here?",
+            "List some top vegetarian eateries",
+            "Can you suggest the best vegetarian spots?",
+            "Where do you recommend for vegetarian cuisine?",
+            "What’s the best place for vegetarian food near me?",
+            "Top 10 vegetarian restaurants nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular vegetarian restaurants you might enjoy:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great vegetarian dining spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top vegetarian restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated vegetarian eateries:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These vegetarian restaurants come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "NonVeg_restaurant",
+            "patterns": [
+            "Where can I find a good non-vegetarian restaurant?",
+            "Can you recommend a non-vegetarian restaurant?",
+            "What are the top non-vegetarian dining spots?",
+            "List some popular non-vegetarian restaurants",
+            "Where should I go for non-vegetarian food?",
+            "Tell me about some good non-vegetarian eateries",
+            "What are the best non-vegetarian restaurants nearby?",
+            "Top ten non-vegetarian restaurants in the city",
+            "Give me a list of top non-vegetarian restaurants",
+            "Where can I enjoy some delicious non-vegetarian dishes?",
+            "What’s the best non-vegetarian restaurant here?",
+            "Which non-vegetarian restaurants are highly rated?",
+            "Suggest some top non-vegetarian dining options",
+            "Where can I find the top non-vegetarian restaurants?",
+            "What are the top non-vegetarian places around here?",
+            "List some top non-vegetarian eateries",
+            "Can you suggest the best non-vegetarian spots?",
+            "Where do you recommend for non-vegetarian cuisine?",
+            "What’s the best place for non-vegetarian food near me?",
+            "Top 10 non-vegetarian restaurants nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular non-vegetarian restaurants you might enjoy:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great non-vegetarian dining spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top non-vegetarian restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated non-vegetarian eateries:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These non-vegetarian restaurants come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Jain_restaurant",
+            "patterns": [
+            "Where can I find a good Jain restaurant?",
+            "Can you recommend a Jain restaurant?",
+            "What are the top Jain dining spots?",
+            "List some popular Jain restaurants",
+            "Where should I go for Jain cuisine?",
+            "Tell me about some good Jain eateries",
+            "What are the best Jain restaurants nearby?",
+            "Top ten Jain restaurants in the city",
+            "Give me a list of top Jain restaurants",
+            "Where can I enjoy some delicious Jain dishes?",
+            "What’s the best Jain restaurant here?",
+            "Which Jain restaurants are highly rated?",
+            "Suggest some top Jain dining options",
+            "Where can I find the top Jain restaurants?",
+            "What are the top Jain places around here?",
+            "List some top Jain eateries",
+            "Can you suggest the best Jain spots?",
+            "Where do you recommend for Jain cuisine?",
+            "What’s the best place for Jain food near me?",
+            "Top 10 Jain restaurants nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular Jain restaurants you might like:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great Jain dining spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top Jain restaurants:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated Jain eateries:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These Jain restaurants come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Breakfast",
+            "patterns": [
+            "Where can I find a good place for breakfast?",
+            "Can you recommend a breakfast spot?",
+            "What are the top breakfast places around?",
+            "List some popular breakfast spots",
+            "Where should I go for breakfast?",
+            "Tell me about some good breakfast eateries",
+            "What are the best breakfast places nearby?",
+            "Top ten breakfast spots in the city",
+            "Give me a list of top breakfast places",
+            "Where can I enjoy some great breakfast dishes?",
+            "What’s the best breakfast spot here?",
+            "Which breakfast places are highly recommended?",
+            "Suggest some top breakfast dining options",
+            "Where can I find the top breakfast spots?",
+            "What are the top breakfast places around here?",
+            "List some top breakfast eateries",
+            "Can you suggest the best breakfast spots?",
+            "Where do you recommend for breakfast?",
+            "What’s the best place for breakfast near me?",
+            "Top 10 breakfast spots nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular breakfast spots you might enjoy:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great breakfast places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top breakfast spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated breakfast places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These breakfast spots come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Lunch",
+            "patterns": [
+            "Where can I find a good place for lunch?",
+            "Can you recommend a lunch spot?",
+            "What are the top lunch places around?",
+            "List some popular lunch spots",
+            "Where should I go for lunch?",
+            "Tell me about some good lunch eateries",
+            "What are the best lunch places nearby?",
+            "Top ten lunch spots in the city",
+            "Give me a list of top lunch places",
+            "Where can I enjoy some great lunch dishes?",
+            "What’s the best lunch spot here?",
+            "Which lunch places are highly recommended?",
+            "Suggest some top lunch dining options",
+            "Where can I find the top lunch spots?",
+            "What are the top lunch places around here?",
+            "List some top lunch eateries",
+            "Can you suggest the best lunch spots?",
+            "Where do you recommend for lunch?",
+            "What’s the best place for lunch near me?",
+            "Top 10 lunch spots nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular lunch spots you might enjoy:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great lunch places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top lunch spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated lunch places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These lunch spots come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Dinner",
+            "patterns": [
+            "Where can I find a good place for dinner?",
+            "Can you recommend a dinner spot?",
+            "What are the top dinner places around?",
+            "List some popular dinner spots",
+            "Where should I go for dinner?",
+            "Tell me about some good dinner eateries",
+            "What are the best dinner places nearby?",
+            "Top ten dinner spots in the city",
+            "Give me a list of top dinner places",
+            "Where can I enjoy some great dinner dishes?",
+            "What’s the best dinner spot here?",
+            "Which dinner places are highly recommended?",
+            "Suggest some top dinner dining options",
+            "Where can I find the top dinner spots?",
+            "What are the top dinner places around here?",
+            "List some top dinner eateries",
+            "Can you suggest the best dinner spots?",
+            "Where do you recommend for dinner?",
+            "What’s the best place for dinner near me?",
+            "Top 10 dinner spots nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular dinner spots you might enjoy:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great dinner places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top dinner spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated dinner places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These dinner spots come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Snacks",
+            "patterns": [
+            "Where can I find a good place for snacks?",
+            "Can you recommend a snack spot?",
+            "What are the top snack places around?",
+            "List some popular snack spots",
+            "Where should I go for snacks?",
+            "Tell me about some good snack eateries",
+            "What are the best snack places nearby?",
+            "Top ten snack spots in the city",
+            "Give me a list of top snack places",
+            "Where can I enjoy some great snacks?",
+            "What’s the best snack spot here?",
+            "Which snack places are highly recommended?",
+            "Suggest some top snack dining options",
+            "Where can I find the top snack spots?",
+            "What are the top snack places around here?",
+            "List some top snack eateries",
+            "Can you suggest the best snack spots?",
+            "Where do you recommend for snacks?",
+            "What’s the best place for snacks near me?",
+            "Top 10 snack spots nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular snack spots you might enjoy:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great snack places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top snack spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated snack places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These snack spots come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        },
+        {
+            "tag": "Desserts",
+            "patterns": [
+            "Where can I find good desserts?",
+            "Can you recommend a place for desserts?",
+            "What are the top dessert spots around?",
+            "List some popular dessert spots",
+            "Where should I go for desserts?",
+            "Tell me about some good dessert eateries",
+            "What are the best dessert places nearby?",
+            "Top ten dessert spots in the city",
+            "Give me a list of top dessert places",
+            "Where can I enjoy some great desserts?",
+            "What’s the best dessert spot here?",
+            "Which dessert places are highly recommended?",
+            "Suggest some top dessert dining options",
+            "Where can I find the top dessert spots?",
+            "What are the top dessert places around here?",
+            "List some top dessert eateries",
+            "Can you suggest the best dessert spots?",
+            "Where do you recommend for desserts?",
+            "What’s the best place for desserts near me?",
+            "Top 10 dessert spots nearby"
+            ],
+            "responses": [
+            [
+                "Here are some popular dessert spots you might enjoy:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Check out these great dessert places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "You might enjoy these top dessert spots:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "Here are some top-rated dessert places:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ],
+            [
+                "These dessert spots come highly recommended:",
+                "1. Restaurant 1",
+                "2. Restaurant 2",
+                "3. Restaurant 3",
+                "4. Restaurant 4",
+                "5. Restaurant 5"
+            ]
+            ]
+        }
     ]
   }
+  
