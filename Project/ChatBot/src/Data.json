@@ -944,6 +944,2499 @@
                 "5. Restaurant 5"
             ]
             ]
+        },
+        {
+            "tag": "Date Night",
+            "patterns": [
+                "Where can I go for a romantic date night?",
+                "Suggest a good restaurant for a date night.",
+                "What are the top date night spots?",
+                "Can you recommend a place for a romantic dinner?",
+                "What’s the best place for a cozy dinner?",
+                "Which restaurant is ideal for a date night?",
+                "Where should I take my partner for a date night?",
+                "Any suggestions for a special date night dinner?",
+                "Looking for a restaurant with a romantic atmosphere?",
+                "Which place is perfect for a candlelight dinner?",
+                "Top places for a date night around here?",
+                "Best restaurants for a date night near me?",
+                "Where can I find a quiet place for a date?",
+                "Recommend a cozy spot for a date night?",
+                "What’s a good place for a romantic evening?",
+                "Where should we go for a date night?",
+                "Top romantic restaurants for a date?",
+                "What’s the best spot for a special date night?",
+                "Any nice places for a romantic dinner?",
+                "Where to go for a romantic night out?"
+            ],
+            "responses": [
+                "Here are some romantic spots perfect for a date night.",
+                "These restaurants are great for a cozy date night.",
+                "Check out these top spots for a romantic dinner.",
+                "These places are perfect for a memorable date night.",
+                "You might love these date night restaurants."
+            ]
+        },
+        {
+            "tag": "Budget Friendly",
+            "patterns": [
+                "Where can I find budget-friendly restaurants?",
+                "Suggest some affordable places to eat.",
+                "What are the best cheap eats around here?",
+                "Can you recommend a low-cost dining spot?",
+                "List some wallet-friendly restaurants nearby.",
+                "Where can I eat well without spending much?",
+                "Which restaurants are good for a budget meal?",
+                "Affordable places to eat around here?",
+                "Where can I dine on a budget?",
+                "What are the top budget-friendly eateries?",
+                "Cheap but good restaurants nearby?",
+                "Where can I find low-cost restaurants?",
+                "Any affordable restaurants you recommend?",
+                "Which place offers good food at low prices?",
+                "Suggest some budget-friendly dining options.",
+                "Where can I eat well for less?",
+                "What’s the best budget-friendly place to eat?",
+                "Top budget-friendly spots around?",
+                "Where to find inexpensive restaurants?",
+                "Affordable dining options near me?"
+            ],
+            "responses": [
+                "Here are some budget-friendly restaurants you might enjoy.",
+                "Check out these affordable dining options.",
+                "These places offer great food at low prices.",
+                "You might find these restaurants easy on the wallet.",
+                "These spots are known for being budget-friendly."
+            ]
+        },
+        {
+            "tag": "Lassi",
+            "patterns": [
+                "Where can I get the best lassi?",
+                "Recommend a place for good lassi.",
+                "What are the top lassi spots around?",
+                "Where can I find the tastiest lassi?",
+                "Suggest some places for delicious lassi.",
+                "Where should I go for a refreshing lassi?",
+                "Which place serves the best lassi?",
+                "Where can I enjoy a traditional lassi?",
+                "Top spots for lassi near me?",
+                "Where to get the best sweet lassi?",
+                "What’s the best place for a mango lassi?",
+                "Any famous lassi shops around here?",
+                "Which restaurants serve good lassi?",
+                "Top places to try lassi?",
+                "Where can I get a thick and creamy lassi?",
+                "Best lassi shops in the city?",
+                "Where do they serve the best lassi?",
+                "Where can I find a variety of lassi flavors?",
+                "Which place has the best lassi?",
+                "Recommend a place with authentic lassi."
+            ],
+            "responses": [
+                "Here are some places with great lassi options.",
+                "These spots serve some of the best lassi in town.",
+                "Check out these places for a refreshing lassi.",
+                "You might enjoy the lassi at these places.",
+                "These locations are known for their delicious lassi."
+            ]
+        },
+        {
+            "tag": "Falooda",
+            "patterns": [
+                "Where can I find the best falooda?",
+                "Suggest a place for good falooda.",
+                "What are the top falooda spots around?",
+                "Where should I go for a delicious falooda?",
+                "Which place serves the best falooda?",
+                "Top places for falooda near me?",
+                "Where can I get a traditional falooda?",
+                "Recommend a place for a refreshing falooda.",
+                "What’s the best place for a falooda treat?",
+                "Where do they serve the best falooda?",
+                "Any famous falooda shops around here?",
+                "Where can I enjoy a rich and creamy falooda?",
+                "Best falooda shops in the city?",
+                "Where can I find a variety of falooda flavors?",
+                "Which place has the most delicious falooda?",
+                "Where can I get falooda near me?",
+                "What are the best falooda places nearby?",
+                "Suggest some places for a good falooda.",
+                "Where can I find authentic falooda?",
+                "Which restaurants serve great falooda?"
+            ],
+            "responses": [
+                "Here are some places where you can enjoy a great falooda.",
+                "These spots are known for their delicious falooda.",
+                "Check out these locations for a refreshing falooda treat.",
+                "You might like the falooda at these places.",
+                "These places serve some of the best falooda in town."
+            ]
+        },
+        {
+            "tag": "Fresh Juices",
+            "patterns": [
+                "Where can I find fresh juices?",
+                "Suggest a place for good fresh juices.",
+                "What are the top juice spots around?",
+                "Where should I go for refreshing juices?",
+                "Which place serves the best fresh juices?",
+                "Top spots for fresh juice near me?",
+                "Where can I get freshly squeezed juices?",
+                "Recommend a place for natural juices.",
+                "What’s the best place for fresh fruit juices?",
+                "Where do they serve the best juices?",
+                "Any famous juice shops around here?",
+                "Where can I enjoy a variety of fresh juices?",
+                "Best juice shops in the city?",
+                "Where can I find healthy fresh juices?",
+                "Which place has the most refreshing juices?",
+                "Where can I get fresh juice near me?",
+                "What are the best juice places nearby?",
+                "Suggest some places for fresh fruit juices.",
+                "Where can I find organic fresh juices?",
+                "Which restaurants serve great fresh juices?"
+            ],
+            "responses": [
+                "Here are some places with refreshing fresh juices.",
+                "These spots serve some of the best fresh juices.",
+                "Check out these locations for healthy fresh juices.",
+                "You might enjoy the fresh juices at these places.",
+                "These places are known for their natural fresh juices."
+            ]
+        },
+        {
+            "tag": "Milkshakes",
+            "patterns": [
+                "Where can I get the best milkshakes?",
+                "Recommend a place for good milkshakes.",
+                "What are the top milkshake spots around?",
+                "Where can I find thick milkshakes?",
+                "Suggest some places for delicious milkshakes.",
+                "Where should I go for a creamy milkshake?",
+                "Which place serves the best milkshakes?",
+                "Where can I enjoy a variety of milkshakes?",
+                "Top spots for milkshakes near me?",
+                "Where to get the best milkshakes?",
+                "What’s the best place for milkshakes?",
+                "Any famous milkshake shops around here?",
+                "Which restaurants serve good milkshakes?",
+                "Top places to try milkshakes?",
+                "Where can I get unique milkshake flavors?",
+                "Best milkshake shops in the city?",
+                "Where do they serve the best milkshakes?",
+                "Where can I find the thickest milkshakes?",
+                "Which place has the most delicious milkshakes?",
+                "Recommend a place with creative milkshakes."
+            ],
+            "responses": [
+                "Here are some places with great milkshakes.",
+                "These spots serve some of the best milkshakes.",
+                "Check out these places for a delicious milkshake.",
+                "You might enjoy the milkshakes at these spots.",
+                "These locations are known for their tasty milkshakes."
+            ]
+        },
+        {
+            "tag": "Pure Veg",
+            "patterns": [
+                "Where can I find a pure veg restaurant?",
+                "Recommend a good pure veg restaurant.",
+                "What are the best pure veg places around?",
+                "List some top pure veg restaurants nearby.",
+                "Which place serves the best pure veg food?",
+                "Where should I go for a pure veg meal?",
+                "Any famous pure veg restaurants around here?",
+                "Which restaurants are strictly pure veg?",
+                "Top pure veg spots near me?",
+                "Where can I enjoy a pure veg feast?",
+                "What’s the best place for pure veg dining?",
+                "Where can I find a pure vegetarian restaurant?",
+                "Top places for pure veg food in the city?",
+                "Where can I get authentic pure veg dishes?",
+                "Which place offers the best pure veg cuisine?",
+                "Suggest some good pure veg restaurants.",
+                "Where can I find pure veg restaurants near me?",
+                "What are the top pure veg places around?",
+                "Which pure veg spots are highly recommended?",
+                "Recommend a top pure veg dining spot."
+            ],
+            "responses": [
+                "Here are some top-rated pure veg restaurants.",
+                "These pure veg spots come highly recommended.",
+                "Check out these places for great pure veg food.",
+                "You might enjoy these pure veg dining spots.",
+                "These restaurants are known for their pure veg cuisine."
+            ]
+        },
+        {
+            "tag": "Veg",
+            "patterns": [
+                "Where can I find vegetarian food?",
+                "Recommend a good vegetarian restaurant.",
+                "What are the best vegetarian places around?",
+                "List some top vegetarian restaurants nearby.",
+                "Which place serves the best vegetarian dishes?",
+                "Where should I go for a vegetarian meal?",
+                "Any famous vegetarian restaurants around here?",
+                "Which restaurants offer good vegetarian options?",
+                "Top vegetarian spots near me?",
+                "Where can I enjoy a vegetarian feast?",
+                "What’s the best place for vegetarian dining?",
+                "Where can I find vegetarian-friendly restaurants?",
+                "Top places for vegetarian food in the city?",
+                "Where can I get delicious vegetarian dishes?",
+                "Which place offers the best vegetarian cuisine?",
+                "Suggest some good vegetarian restaurants.",
+                "Where can I find vegetarian restaurants near me?",
+                "What are the top vegetarian places around?",
+                "Which vegetarian spots are highly recommended?",
+                "Recommend a top vegetarian dining spot."
+            ],
+            "responses": [
+                "Here are some top-rated vegetarian restaurants.",
+                "These vegetarian spots come highly recommended.",
+                "Check out these places for great vegetarian food.",
+                "You might enjoy these vegetarian dining spots.",
+                "These restaurants are known for their vegetarian cuisine."
+            ]
+        },
+        {
+            "tag": "Non Veg",
+            "patterns": [
+                "Where can I find non-veg food?",
+                "Recommend a good non-veg restaurant.",
+                "What are the best non-veg places around?",
+                "List some top non-veg restaurants nearby.",
+                "Which place serves the best non-veg dishes?",
+                "Where should I go for a non-veg meal?",
+                "Any famous non-veg restaurants around here?",
+                "Which restaurants offer good non-veg options?",
+                "Top non-veg spots near me?",
+                "Where can I enjoy a non-veg feast?",
+                "What’s the best place for non-veg dining?",
+                "Where can I find non-vegetarian restaurants?",
+                "Top places for non-veg food in the city?",
+                "Where can I get delicious non-veg dishes?",
+                "Which place offers the best non-veg cuisine?",
+                "Suggest some good non-veg restaurants.",
+                "Where can I find non-veg restaurants near me?",
+                "What are the top non-veg places around?",
+                "Which non-veg spots are highly recommended?",
+                "Recommend a top non-veg dining spot."
+            ],
+            "responses": [
+                "Here are some top-rated non-veg restaurants.",
+                "These non-veg spots come highly recommended.",
+                "Check out these places for great non-veg food.",
+                "You might enjoy these non-veg dining spots.",
+                "These restaurants are known for their non-veg cuisine."
+            ]
+        },
+        {
+            "tag": "Sea Foods",
+            "patterns": [
+                "Where can I find seafood?",
+                "Recommend a good seafood restaurant.",
+                "What are the best seafood places around?",
+                "List some top seafood restaurants nearby.",
+                "Which place serves the best seafood dishes?",
+                "Where should I go for a seafood meal?",
+                "Any famous seafood restaurants around here?",
+                "Which restaurants offer good seafood options?",
+                "Top seafood spots near me?",
+                "Where can I enjoy a seafood feast?",
+                "What’s the best place for seafood dining?",
+                "Where can I find seafood restaurants?",
+                "Top places for seafood in the city?",
+                "Where can I get delicious seafood dishes?",
+                "Which place offers the best seafood cuisine?",
+                "Suggest some good seafood restaurants.",
+                "Where can I find seafood restaurants near me?",
+                "What are the top seafood places around?",
+                "Which seafood spots are highly recommended?",
+                "Recommend a top seafood dining spot."
+            ],
+            "responses": [
+                "Here are some top-rated seafood restaurants.",
+                "These seafood spots come highly recommended.",
+                "Check out these places for great seafood.",
+                "You might enjoy these seafood dining spots.",
+                "These restaurants are known for their seafood cuisine."
+            ]
+        },
+        {
+            "tag": "Tandoori",
+            "patterns": [
+                "Where can I find tandoori dishes?",
+                "Recommend a good tandoori restaurant.",
+                "What are the best tandoori places around?",
+                "List some top tandoori restaurants nearby.",
+                "Which place serves the best tandoori dishes?",
+                "Where should I go for tandoori chicken?",
+                "Any famous tandoori restaurants around here?",
+                "Which restaurants offer good tandoori options?",
+                "Top tandoori spots near me?",
+                "Where can I enjoy tandoori food?",
+                "What’s the best place for tandoori dining?",
+                "Where can I find tandoori restaurants?",
+                "Top places for tandoori in the city?",
+                "Where can I get delicious tandoori dishes?",
+                "Which place offers the best tandoori cuisine?",
+                "Suggest some good tandoori restaurants.",
+                "Where can I find tandoori restaurants near me?",
+                "What are the top tandoori places around?",
+                "Which tandoori spots are highly recommended?",
+                "Recommend a top tandoori dining spot."
+            ],
+            "responses": [
+                "Here are some top-rated tandoori restaurants.",
+                "These tandoori spots come highly recommended.",
+                "Check out these places for great tandoori food.",
+                "You might enjoy these tandoori dining spots.",
+                "These restaurants are known for their tandoori cuisine."
+            ]
+        },
+        {
+            "tag": "BBQ",
+            "patterns": [
+                "Where can I find BBQ dishes?",
+                "Recommend a good BBQ restaurant.",
+                "What are the best BBQ places around?",
+                "List some top BBQ restaurants nearby.",
+                "Which place serves the best BBQ dishes?",
+                "Where should I go for BBQ?",
+                "Any famous BBQ restaurants around here?",
+                "Which restaurants offer good BBQ options?",
+                "Top BBQ spots near me?",
+                "Where can I enjoy BBQ food?",
+                "What’s the best place for BBQ dining?",
+                "Where can I find BBQ restaurants?",
+                "Top places for BBQ in the city?",
+                "Where can I get delicious BBQ dishes?",
+                "Which place offers the best BBQ cuisine?",
+                "Suggest some good BBQ restaurants.",
+                "Where can I find BBQ restaurants near me?",
+                "What are the top BBQ places around?",
+                "Which BBQ spots are highly recommended?",
+                "Recommend a top BBQ dining spot."
+            ],
+            "responses": [
+                "Here are some top-rated BBQ restaurants.",
+                "These BBQ spots come highly recommended.",
+                "Check out these places for great BBQ food.",
+                "You might enjoy these BBQ dining spots.",
+                "These restaurants are known for their BBQ cuisine."
+            ]
+        },
+        {
+            "tag": "Grill",
+            "patterns": [
+                "Where can I find grilled dishes?",
+                "Recommend a good grill restaurant.",
+                "What are the best grill places around?",
+                "List some top grill restaurants nearby.",
+                "Which place serves the best grilled food?",
+                "Where should I go for a grill meal?",
+                "Any famous grill restaurants around here?",
+                "Which restaurants offer good grill options?",
+                "Top grill spots near me?",
+                "Where can I enjoy grilled food?",
+                "What’s the best place for grilled dining?",
+                "Where can I find grill restaurants?",
+                "Top places for grilled food in the city?",
+                "Where can I get delicious grilled dishes?",
+                "Which place offers the best grill cuisine?",
+                "Suggest some good grill restaurants.",
+                "Where can I find grill restaurants near me?",
+                "What are the top grill places around?",
+                "Which grill spots are highly recommended?",
+                "Recommend a top grill dining spot."
+            ],
+            "responses": [
+                "Here are some top-rated grill restaurants.",
+                "These grill spots come highly recommended.",
+                "Check out these places for great grilled food.",
+                "You might enjoy these grill dining spots.",
+                "These restaurants are known for their grill cuisine."
+            ]
+        },
+        {
+            "tag": "biryani",
+            "patterns": [
+                "Where can I get the best biryani?",
+                "Recommend a place for biryani.",
+                "Top spots for biryani near me.",
+                "Where can I find delicious biryani?",
+                "Best biryani in town?",
+                "Can you suggest a good biryani place?",
+                "Which restaurant serves the best biryani?",
+                "Where to eat biryani around here?",
+                "Top-rated biryani places nearby?",
+                "What’s the best spot for biryani?",
+                "Where should I go for biryani?",
+                "Where can I get authentic biryani?",
+                "Biryani restaurants near me?",
+                "Any famous biryani spots around?",
+                "Where can I find spicy biryani?",
+                "Top places for biryani in this area?",
+                "Suggest some good biryani restaurants.",
+                "Which biryani place do you recommend?",
+                "Where to find the best biryani in town?",
+                "Can you recommend a top biryani spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular biryani spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for biryani:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top biryani spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated biryani places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These biryani spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "chicken_biryani",
+            "patterns": [
+                "Where can I get the best chicken biryani?",
+                "Recommend a place for chicken biryani.",
+                "Top spots for chicken biryani near me.",
+                "Where can I find delicious chicken biryani?",
+                "Best chicken biryani in town?",
+                "Can you suggest a good chicken biryani place?",
+                "Which restaurant serves the best chicken biryani?",
+                "Where to eat chicken biryani around here?",
+                "Top-rated chicken biryani places nearby?",
+                "What’s the best spot for chicken biryani?",
+                "Where should I go for chicken biryani?",
+                "Where can I get authentic chicken biryani?",
+                "Chicken biryani restaurants near me?",
+                "Any famous chicken biryani spots around?",
+                "Where can I find spicy chicken biryani?",
+                "Top places for chicken biryani in this area?",
+                "Suggest some good chicken biryani restaurants.",
+                "Which chicken biryani place do you recommend?",
+                "Where to find the best chicken biryani in town?",
+                "Can you recommend a top chicken biryani spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular chicken biryani spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for chicken biryani:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top chicken biryani spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated chicken biryani places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These chicken biryani spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "mutton_biryani",
+            "patterns": [
+                "Where can I get the best mutton biryani?",
+                "Recommend a place for mutton biryani.",
+                "Top spots for mutton biryani near me.",
+                "Where can I find delicious mutton biryani?",
+                "Best mutton biryani in town?",
+                "Can you suggest a good mutton biryani place?",
+                "Which restaurant serves the best mutton biryani?",
+                "Where to eat mutton biryani around here?",
+                "Top-rated mutton biryani places nearby?",
+                "What’s the best spot for mutton biryani?",
+                "Where should I go for mutton biryani?",
+                "Where can I get authentic mutton biryani?",
+                "Mutton biryani restaurants near me?",
+                "Any famous mutton biryani spots around?",
+                "Where can I find spicy mutton biryani?",
+                "Top places for mutton biryani in this area?",
+                "Suggest some good mutton biryani restaurants.",
+                "Which mutton biryani place do you recommend?",
+                "Where to find the best mutton biryani in town?",
+                "Can you recommend a top mutton biryani spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular mutton biryani spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for mutton biryani:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top mutton biryani spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated mutton biryani places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These mutton biryani spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "beef_biryani",
+            "patterns": [
+                "Where can I get the best beef biryani?",
+                "Recommend a place for beef biryani.",
+                "Top spots for beef biryani near me.",
+                "Where can I find delicious beef biryani?",
+                "Best beef biryani in town?",
+                "Can you suggest a good beef biryani place?",
+                "Which restaurant serves the best beef biryani?",
+                "Where to eat beef biryani around here?",
+                "Top-rated beef biryani places nearby?",
+                "What’s the best spot for beef biryani?",
+                "Where should I go for beef biryani?",
+                "Where can I get authentic beef biryani?",
+                "Beef biryani restaurants near me?",
+                "Any famous beef biryani spots around?",
+                "Where can I find spicy beef biryani?",
+                "Top places for beef biryani in this area?",
+                "Suggest some good beef biryani restaurants.",
+                "Which beef biryani place do you recommend?",
+                "Where to find the best beef biryani in town?",
+                "Can you recommend a top beef biryani spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular beef biryani spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for beef biryani:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top beef biryani spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated beef biryani places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These beef biryani spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "veg_biryani",
+            "patterns": [
+                "Where can I get the best veg biryani?",
+                "Recommend a place for veg biryani.",
+                "Top spots for veg biryani near me.",
+                "Where can I find delicious veg biryani?",
+                "Best veg biryani in town?",
+                "Can you suggest a good veg biryani place?",
+                "Which restaurant serves the best veg biryani?",
+                "Where to eat veg biryani around here?",
+                "Top-rated veg biryani places nearby?",
+                "What’s the best spot for veg biryani?",
+                "Where should I go for veg biryani?",
+                "Where can I get authentic veg biryani?",
+                "Veg biryani restaurants near me?",
+                "Any famous veg biryani spots around?",
+                "Where can I find spicy veg biryani?",
+                "Top places for veg biryani in this area?",
+                "Suggest some good veg biryani restaurants.",
+                "Which veg biryani place do you recommend?",
+                "Where to find the best veg biryani in town?",
+                "Can you recommend a top veg biryani spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular veg biryani spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for veg biryani:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top veg biryani spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated veg biryani places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These veg biryani spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "dosa",
+            "patterns": [
+                "Where can I get the best dosa?",
+                "Recommend a place for dosa.",
+                "Top spots for dosa near me.",
+                "Where can I find delicious dosa?",
+                "Best dosa in town?",
+                "Can you suggest a good dosa place?",
+                "Which restaurant serves the best dosa?",
+                "Where to eat dosa around here?",
+                "Top-rated dosa places nearby?",
+                "What’s the best spot for dosa?",
+                "Where should I go for dosa?",
+                "Where can I get authentic dosa?",
+                "Dosa restaurants near me?",
+                "Any famous dosa spots around?",
+                "Where can I find crispy dosa?",
+                "Top places for dosa in this area?",
+                "Suggest some good dosa restaurants.",
+                "Which dosa place do you recommend?",
+                "Where to find the best dosa in town?",
+                "Can you recommend a top dosa spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular dosa spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for dosa:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top dosa spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated dosa places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These dosa spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "vada",
+            "patterns": [
+                "Where can I get the best vada?",
+                "Recommend a place for vada.",
+                "Top spots for vada near me.",
+                "Where can I find delicious vada?",
+                "Best vada in town?",
+                "Can you suggest a good vada place?",
+                "Which restaurant serves the best vada?",
+                "Where to eat vada around here?",
+                "Top-rated vada places nearby?",
+                "What’s the best spot for vada?",
+                "Where should I go for vada?",
+                "Where can I get authentic vada?",
+                "Vada restaurants near me?",
+                "Any famous vada spots around?",
+                "Where can I find crispy vada?",
+                "Top places for vada in this area?",
+                "Suggest some good vada restaurants.",
+                "Which vada place do you recommend?",
+                "Where to find the best vada in town?",
+                "Can you recommend a top vada spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular vada spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for vada:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top vada spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated vada places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These vada spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "sambar",
+            "patterns": [
+                "Where can I get the best sambar?",
+                "Recommend a place for sambar.",
+                "Top spots for sambar near me.",
+                "Where can I find delicious sambar?",
+                "Best sambar in town?",
+                "Can you suggest a good sambar place?",
+                "Which restaurant serves the best sambar?",
+                "Where to eat sambar around here?",
+                "Top-rated sambar places nearby?",
+                "What’s the best spot for sambar?",
+                "Where should I go for sambar?",
+                "Where can I get authentic sambar?",
+                "Sambar restaurants near me?",
+                "Any famous sambar spots around?",
+                "Where can I find tasty sambar?",
+                "Top places for sambar in this area?",
+                "Suggest some good sambar restaurants.",
+                "Which sambar place do you recommend?",
+                "Where to find the best sambar in town?",
+                "Can you recommend a top sambar spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular sambar spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for sambar:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top sambar spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated sambar places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These sambar spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "idly",
+            "patterns": [
+                "Where can I get the best idly?",
+                "Recommend a place for idly.",
+                "Top spots for idly near me.",
+                "Where can I find delicious idly?",
+                "Best idly in town?",
+                "Can you suggest a good idly place?",
+                "Which restaurant serves the best idly?",
+                "Where to eat idly around here?",
+                "Top-rated idly places nearby?",
+                "What’s the best spot for idly?",
+                "Where should I go for idly?",
+                "Where can I get authentic idly?",
+                "Idly restaurants near me?",
+                "Any famous idly spots around?",
+                "Where can I find soft idly?",
+                "Top places for idly in this area?",
+                "Suggest some good idly restaurants.",
+                "Which idly place do you recommend?",
+                "Where to find the best idly in town?",
+                "Can you recommend a top idly spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular idly spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for idly:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top idly spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated idly places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These idly spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "chole_bhature",
+            "patterns": [
+                "Where can I get the best chole bhature?",
+                "Recommend a place for chole bhature.",
+                "Top spots for chole bhature near me.",
+                "Where can I find delicious chole bhature?",
+                "Best chole bhature in town?",
+                "Can you suggest a good chole bhature place?",
+                "Which restaurant serves the best chole bhature?",
+                "Where to eat chole bhature around here?",
+                "Top-rated chole bhature places nearby?",
+                "What’s the best spot for chole bhature?",
+                "Where should I go for chole bhature?",
+                "Where can I get authentic chole bhature?",
+                "Chole bhature restaurants near me?",
+                "Any famous chole bhature spots around?",
+                "Where can I find spicy chole bhature?",
+                "Top places for chole bhature in this area?",
+                "Suggest some good chole bhature restaurants.",
+                "Which chole bhature place do you recommend?",
+                "Where to find the best chole bhature in town?",
+                "Can you recommend a top chole bhature spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular chole bhature spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for chole bhature:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top chole bhature spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated chole bhature places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These chole bhature spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "bread_omelet",
+            "patterns": [
+                "Where can I get the best bread omelet?",
+                "Recommend a place for bread omelet.",
+                "Top spots for bread omelet near me.",
+                "Where can I find delicious bread omelet?",
+                "Best bread omelet in town?",
+                "Can you suggest a good bread omelet place?",
+                "Which restaurant serves the best bread omelet?",
+                "Where to eat bread omelet around here?",
+                "Top-rated bread omelet places nearby?",
+                "What’s the best spot for bread omelet?",
+                "Where should I go for bread omelet?",
+                "Where can I get authentic bread omelet?",
+                "Bread omelet restaurants near me?",
+                "Any famous bread omelet spots around?",
+                "Where can I find tasty bread omelet?",
+                "Top places for bread omelet in this area?",
+                "Suggest some good bread omelet restaurants.",
+                "Which bread omelet place do you recommend?",
+                "Where to find the best bread omelet in town?",
+                "Can you recommend a top bread omelet spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular bread omelet spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for bread omelet:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top bread omelet spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated bread omelet places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These bread omelet spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "bakery",
+            "patterns": [
+                "Where can I find the best bakery?",
+                "Recommend a good bakery.",
+                "Top bakery spots near me.",
+                "Where can I get delicious bakery items?",
+                "Best bakery in town?",
+                "Can you suggest a good bakery place?",
+                "Which bakery has the best pastries?",
+                "Where to buy bakery products around here?",
+                "Top-rated bakeries nearby?",
+                "What’s the best spot for bakery items?",
+                "Where should I go for bakery goods?",
+                "Where can I find fresh bakery products?",
+                "Bakery shops near me?",
+                "Any famous bakeries around?",
+                "Where can I get artisanal bakery items?",
+                "Top places for bakery items in this area?",
+                "Suggest some good bakeries.",
+                "Which bakery do you recommend?",
+                "Where to find the best bakery in town?",
+                "Can you recommend a top bakery spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular bakery spots you might enjoy:",
+                    "1. Bakery 1",
+                    "2. Bakery 2",
+                    "3. Bakery 3",
+                    "4. Bakery 4",
+                    "5. Bakery 5"
+                ],
+                [
+                    "Check out these great bakeries:",
+                    "1. Bakery 1",
+                    "2. Bakery 2",
+                    "3. Bakery 3",
+                    "4. Bakery 4",
+                    "5. Bakery 5"
+                ],
+                [
+                    "You might enjoy these top bakery spots:",
+                    "1. Bakery 1",
+                    "2. Bakery 2",
+                    "3. Bakery 3",
+                    "4. Bakery 4",
+                    "5. Bakery 5"
+                ],
+                [
+                    "Here are some top-rated bakery places:",
+                    "1. Bakery 1",
+                    "2. Bakery 2",
+                    "3. Bakery 3",
+                    "4. Bakery 4",
+                    "5. Bakery 5"
+                ],
+                [
+                    "These bakery spots come highly recommended:",
+                    "1. Bakery 1",
+                    "2. Bakery 2",
+                    "3. Bakery 3",
+                    "4. Bakery 4",
+                    "5. Bakery 5"
+                ]
+            ]
+        },
+        {
+            "tag": "highly_rated",
+            "patterns": [
+                "Where can I find highly rated restaurants?",
+                "Recommend some top-rated places.",
+                "Top highly rated restaurants near me.",
+                "What are some highly recommended spots?",
+                "Best highly rated eateries in town?",
+                "Can you suggest some highly rated places?",
+                "Which restaurants have the best ratings?",
+                "Where to find top-rated places around here?",
+                "Top-rated restaurants nearby?",
+                "What’s the best spot for highly rated food?",
+                "Where should I go for highly rated dining?",
+                "Where can I find highly recommended restaurants?",
+                "Highly rated eateries near me?",
+                "Any famous highly rated places around?",
+                "Where can I find top-rated dining options?",
+                "Top places for highly rated food in this area?",
+                "Suggest some highly rated restaurants.",
+                "Which highly rated restaurant do you recommend?",
+                "Where to find the best rated places in town?",
+                "Can you recommend some top-rated spots?"
+            ],
+            "responses": [
+                [
+                    "Here are some highly rated restaurants you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these top-rated spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top-rated restaurants:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated dining options:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These top-rated spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "popular",
+            "patterns": [
+                "Where can I find popular restaurants?",
+                "Recommend some popular places.",
+                "Top popular spots near me.",
+                "What are some popular dining options?",
+                "Best popular restaurants in town?",
+                "Can you suggest some popular places?",
+                "Which restaurants are popular around here?",
+                "Where to find popular eateries around here?",
+                "Top popular dining spots nearby?",
+                "What’s the best spot for popular food?",
+                "Where should I go for popular restaurants?",
+                "Where can I find popular dining options?",
+                "Popular restaurants near me?",
+                "Any famous popular spots around?",
+                "Where can I find popular dining choices?",
+                "Top places for popular food in this area?",
+                "Suggest some popular restaurants.",
+                "Which popular place do you recommend?",
+                "Where to find the best popular restaurants in town?",
+                "Can you recommend some popular dining spots?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular restaurants you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these popular places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top popular spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated popular spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These popular spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "online_ordering",
+            "patterns": [
+                "Where can I order food online?",
+                "Recommend some places for online ordering.",
+                "Top spots for online food ordering near me.",
+                "Where can I find restaurants with online ordering?",
+                "Best places for online food orders in town?",
+                "Can you suggest some restaurants for online ordering?",
+                "Which restaurants offer online ordering?",
+                "Where to order food online around here?",
+                "Top-rated restaurants for online ordering nearby?",
+                "What’s the best spot for online food ordering?",
+                "Where should I order food online from?",
+                "Where can I find online food delivery options?",
+                "Restaurants with online ordering near me?",
+                "Any famous places for online food ordering around?",
+                "Where can I get online food delivery?",
+                "Top places for online food orders in this area?",
+                "Suggest some restaurants for online ordering.",
+                "Which place do you recommend for online food ordering?",
+                "Where to find the best online ordering options in town?",
+                "Can you recommend some spots for online food delivery?"
+            ],
+            "responses": [
+                [
+                    "Here are some restaurants that offer online ordering:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these top spots for online ordering:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these restaurants with online ordering:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated places for online food ordering:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These restaurants with online ordering come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "fried_rice",
+            "patterns": [
+                "Where can I get the best fried rice?",
+                "Recommend a place for fried rice.",
+                "Top spots for fried rice near me.",
+                "Where can I find delicious fried rice?",
+                "Best fried rice in town?",
+                "Can you suggest a good fried rice place?",
+                "Which restaurant serves the best fried rice?",
+                "Where to eat fried rice around here?",
+                "Top-rated fried rice places nearby?",
+                "What’s the best spot for fried rice?",
+                "Where should I go for fried rice?",
+                "Where can I get authentic fried rice?",
+                "Fried rice restaurants near me?",
+                "Any famous fried rice spots around?",
+                "Where can I find tasty fried rice?",
+                "Top places for fried rice in this area?",
+                "Suggest some good fried rice restaurants.",
+                "Which fried rice place do you recommend?",
+                "Where to find the best fried rice in town?",
+                "Can you recommend a top fried rice spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular fried rice spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for fried rice:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top fried rice spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated fried rice places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These fried rice spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                        "4. Restaurant 4",
+                        "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "chicken_fried_rice",
+            "patterns": [
+                "Where can I get the best chicken fried rice?",
+                "Recommend a place for chicken fried rice.",
+                "Top spots for chicken fried rice near me.",
+                "Where can I find delicious chicken fried rice?",
+                "Best chicken fried rice in town?",
+                "Can you suggest a good chicken fried rice place?",
+                "Which restaurant serves the best chicken fried rice?",
+                "Where to eat chicken fried rice around here?",
+                "Top-rated chicken fried rice places nearby?",
+                "What’s the best spot for chicken fried rice?",
+                "Where should I go for chicken fried rice?",
+                "Where can I get authentic chicken fried rice?",
+                "Chicken fried rice restaurants near me?",
+                "Any famous chicken fried rice spots around?",
+                "Where can I find tasty chicken fried rice?",
+                "Top places for chicken fried rice in this area?",
+                "Suggest some good chicken fried rice restaurants.",
+                "Which chicken fried rice place do you recommend?",
+                "Where to find the best chicken fried rice in town?",
+                "Can you recommend a top chicken fried rice spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular chicken fried rice spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for chicken fried rice:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top chicken fried rice spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated chicken fried rice places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These chicken fried rice spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "mixed_fried_rice",
+            "patterns": [
+                "Where can I get the best mixed fried rice?",
+                "Recommend a place for mixed fried rice.",
+                "Top spots for mixed fried rice near me.",
+                "Where can I find delicious mixed fried rice?",
+                "Best mixed fried rice in town?",
+                "Can you suggest a good mixed fried rice place?",
+                "Which restaurant serves the best mixed fried rice?",
+                "Where to eat mixed fried rice around here?",
+                "Top-rated mixed fried rice places nearby?",
+                "What’s the best spot for mixed fried rice?",
+                "Where should I go for mixed fried rice?",
+                "Where can I get authentic mixed fried rice?",
+                "Mixed fried rice restaurants near me?",
+                "Any famous mixed fried rice spots around?",
+                "Where can I find tasty mixed fried rice?",
+                "Top places for mixed fried rice in this area?",
+                "Suggest some good mixed fried rice restaurants.",
+                "Which mixed fried rice place do you recommend?",
+                "Where to find the best mixed fried rice in town?",
+                "Can you recommend a top mixed fried rice spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular mixed fried rice spots you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great places for mixed fried rice:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top mixed fried rice spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated mixed fried rice places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These mixed fried rice spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "new_opening",
+            "patterns": [
+                "What are some new openings?",
+                "Any new restaurants opening nearby?",
+                "Tell me about recent restaurant openings.",
+                "What’s new in the dining scene?",
+                "Any new places to eat around here?",
+                "Recent restaurant openings in the area?",
+                "New dining spots I should check out?",
+                "Which restaurants have recently opened?",
+                "Any new eateries in town?",
+                "What’s the latest restaurant opening?",
+                "New restaurants around here?",
+                "Any exciting new food spots?",
+                "Where can I find new dining options?",
+                "New food places in this area?",
+                "Which new restaurants are worth visiting?",
+                "Recent openings for restaurants?",
+                "New spots for dining nearby?",
+                "Any new places for food lovers?",
+                "What are the latest restaurant openings?",
+                "New eateries you recommend?"
+            ],
+            "responses": [
+                [
+                    "Here are some recent restaurant openings you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these new dining spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might like these recent restaurant openings:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some newly opened places to check out:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These new dining spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "hidden_gem",
+            "patterns": [
+                "What are some hidden gems around here?",
+                "Tell me about hidden gem restaurants.",
+                "Any hidden gems in the dining scene?",
+                "Where can I find hidden gem eateries?",
+                "Recommend a hidden gem restaurant.",
+                "Any hidden dining spots you suggest?",
+                "Which places are considered hidden gems?",
+                "Where can I discover hidden gems for food?",
+                "Top hidden gems for dining nearby?",
+                "What’s a hidden gem for food in town?",
+                "Any hidden gem restaurants to check out?",
+                "Where are the hidden gem spots around here?",
+                "What are some lesser-known dining spots?",
+                "Hidden gem eateries near me?",
+                "Can you suggest a hidden gem restaurant?",
+                "Any secret dining spots in this area?",
+                "Top hidden gem places to eat?",
+                "Hidden gem dining recommendations?",
+                "Where to find the best hidden gems for food?",
+                "Which hidden gem restaurant do you recommend?"
+            ],
+            "responses": [
+                [
+                    "Here are some hidden gem restaurants you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these hidden gem dining spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these hidden gem eateries:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some lesser-known dining spots you may like:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These hidden gem restaurants come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "butter_chicken",
+            "patterns": [
+                "Where can I get the best butter chicken?",
+                "Recommend a place for butter chicken.",
+                "Top spots for butter chicken near me.",
+                "Where can I find delicious butter chicken?",
+                "Best butter chicken in town?",
+                "Can you suggest a good butter chicken place?",
+                "Which restaurant serves the best butter chicken?",
+                "Where to eat butter chicken around here?",
+                "Top-rated butter chicken places nearby?",
+                "What’s the best spot for butter chicken?",
+                "Where should I go for butter chicken?",
+                "Where can I get authentic butter chicken?",
+                "Butter chicken restaurants near me?",
+                "Any famous butter chicken spots around?",
+                "Where can I find tasty butter chicken?",
+                "Top places for butter chicken in this area?",
+                "Suggest some good butter chicken restaurants.",
+                "Which butter chicken place do you recommend?",
+                "Where to find the best butter chicken in town?",
+                "Can you recommend a top butter chicken spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for butter chicken you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for butter chicken:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top butter chicken spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated butter chicken places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These butter chicken spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "palak_paneer",
+            "patterns": [
+                "Where can I get the best palak paneer?",
+                "Recommend a place for palak paneer.",
+                "Top spots for palak paneer near me.",
+                "Where can I find delicious palak paneer?",
+                "Best palak paneer in town?",
+                "Can you suggest a good palak paneer place?",
+                "Which restaurant serves the best palak paneer?",
+                "Where to eat palak paneer around here?",
+                "Top-rated palak paneer places nearby?",
+                "What’s the best spot for palak paneer?",
+                "Where should I go for palak paneer?",
+                "Where can I get authentic palak paneer?",
+                "Palak paneer restaurants near me?",
+                "Any famous palak paneer spots around?",
+                "Where can I find tasty palak paneer?",
+                "Top places for palak paneer in this area?",
+                "Suggest some good palak paneer restaurants.",
+                "Which palak paneer place do you recommend?",
+                "Where to find the best palak paneer in town?",
+                "Can you recommend a top palak paneer spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for palak paneer you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for palak paneer:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top palak paneer spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated palak paneer places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These palak paneer spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "dal_makhani",
+            "patterns": [
+                "Where can I get the best dal makhani?",
+                "Recommend a place for dal makhani.",
+                "Top spots for dal makhani near me.",
+                "Where can I find delicious dal makhani?",
+                "Best dal makhani in town?",
+                "Can you suggest a good dal makhani place?",
+                "Which restaurant serves the best dal makhani?",
+                "Where to eat dal makhani around here?",
+                "Top-rated dal makhani places nearby?",
+                "What’s the best spot for dal makhani?",
+                "Where should I go for dal makhani?",
+                "Where can I get authentic dal makhani?",
+                "Dal makhani restaurants near me?",
+                "Any famous dal makhani spots around?",
+                "Where can I find tasty dal makhani?",
+                "Top places for dal makhani in this area?",
+                "Suggest some good dal makhani restaurants.",
+                "Which dal makhani place do you recommend?",
+                "Where to find the best dal makhani in town?",
+                "Can you recommend a top dal makhani spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for dal makhani you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for dal makhani:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top dal makhani spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated dal makhani places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These dal makhani spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "chana_masala",
+            "patterns": [
+                "Where can I get the best chana masala?",
+                "Recommend a place for chana masala.",
+                "Top spots for chana masala near me.",
+                "Where can I find delicious chana masala?",
+                "Best chana masala in town?",
+                "Can you suggest a good chana masala place?",
+                "Which restaurant serves the best chana masala?",
+                "Where to eat chana masala around here?",
+                "Top-rated chana masala places nearby?",
+                "What’s the best spot for chana masala?",
+                "Where should I go for chana masala?",
+                "Where can I get authentic chana masala?",
+                "Chana masala restaurants near me?",
+                "Any famous chana masala spots around?",
+                "Where can I find tasty chana masala?",
+                "Top places for chana masala in this area?",
+                "Suggest some good chana masala restaurants.",
+                "Which chana masala place do you recommend?",
+                "Where to find the best chana masala in town?",
+                "Can you recommend a top chana masala spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for chana masala you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for chana masala:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top chana masala spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated chana masala places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These chana masala spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "naan",
+            "patterns": [
+                "Where can I get the best naan?",
+                "Recommend a place for naan.",
+                "Top spots for naan near me.",
+                "Where can I find delicious naan?",
+                "Best naan in town?",
+                "Can you suggest a good naan place?",
+                "Which restaurant serves the best naan?",
+                "Where to eat naan around here?",
+                "Top-rated naan places nearby?",
+                "What’s the best spot for naan?",
+                "Where should I go for naan?",
+                "Where can I get authentic naan?",
+                "Naan restaurants near me?",
+                "Any famous naan spots around?",
+                "Where can I find tasty naan?",
+                "Top places for naan in this area?",
+                "Suggest some good naan restaurants.",
+                "Which naan place do you recommend?",
+                "Where to find the best naan in town?",
+                "Can you recommend a top naan spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for naan you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for naan:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top naan spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated naan places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These naan spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "paneer_butter_masala",
+            "patterns": [
+                "Where can I get the best paneer butter masala?",
+                "Recommend a place for paneer butter masala.",
+                "Top spots for paneer butter masala near me.",
+                "Where can I find delicious paneer butter masala?",
+                "Best paneer butter masala in town?",
+                "Can you suggest a good paneer butter masala place?",
+                "Which restaurant serves the best paneer butter masala?",
+                "Where to eat paneer butter masala around here?",
+                "Top-rated paneer butter masala places nearby?",
+                "What’s the best spot for paneer butter masala?",
+                "Where should I go for paneer butter masala?",
+                "Where can I get authentic paneer butter masala?",
+                "Paneer butter masala restaurants near me?",
+                "Any famous paneer butter masala spots around?",
+                "Where can I find tasty paneer butter masala?",
+                "Top places for paneer butter masala in this area?",
+                "Suggest some good paneer butter masala restaurants.",
+                "Which paneer butter masala place do you recommend?",
+                "Where to find the best paneer butter masala in town?",
+                "Can you recommend a top paneer butter masala spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for paneer butter masala you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for paneer butter masala:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top paneer butter masala spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated paneer butter masala places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These paneer butter masala spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "vada_pav",
+            "patterns": [
+                "Where can I get the best vada pav?",
+                "Recommend a place for vada pav.",
+                "Top spots for vada pav near me.",
+                "Where can I find delicious vada pav?",
+                "Best vada pav in town?",
+                "Can you suggest a good vada pav place?",
+                "Which restaurant serves the best vada pav?",
+                "Where to eat vada pav around here?",
+                "Top-rated vada pav places nearby?",
+                "What’s the best spot for vada pav?",
+                "Where should I go for vada pav?",
+                "Where can I get authentic vada pav?",
+                "Vada pav restaurants near me?",
+                "Any famous vada pav spots around?",
+                "Where can I find tasty vada pav?",
+                "Top places for vada pav in this area?",
+                "Suggest some good vada pav restaurants.",
+                "Which vada pav place do you recommend?",
+                "Where to find the best vada pav in town?",
+                "Can you recommend a top vada pav spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for vada pav you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for vada pav:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top vada pav spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated vada pav places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These vada pav spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "samosa",
+            "patterns": [
+                "Where can I get the best samosa?",
+                "Recommend a place for samosa.",
+                "Top spots for samosa near me.",
+                "Where can I find delicious samosa?",
+                "Best samosa in town?",
+                "Can you suggest a good samosa place?",
+                "Which restaurant serves the best samosa?",
+                "Where to eat samosa around here?",
+                "Top-rated samosa places nearby?",
+                "What’s the best spot for samosa?",
+                "Where should I go for samosa?",
+                "Where can I get authentic samosa?",
+                "Samosa restaurants near me?",
+                "Any famous samosa spots around?",
+                "Where can I find tasty samosa?",
+                "Top places for samosa in this area?",
+                "Suggest some good samosa restaurants.",
+                "Which samosa place do you recommend?",
+                "Where to find the best samosa in town?",
+                "Can you recommend a top samosa spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for samosa you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for samosa:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top samosa spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated samosa places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These samosa spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "pani_puri",
+            "patterns": [
+                "Where can I get the best pani puri?",
+                "Recommend a place for pani puri.",
+                "Top spots for pani puri near me.",
+                "Where can I find delicious pani puri?",
+                "Best pani puri in town?",
+                "Can you suggest a good pani puri place?",
+                "Which restaurant serves the best pani puri?",
+                "Where to eat pani puri around here?",
+                "Top-rated pani puri places nearby?",
+                "What’s the best spot for pani puri?",
+                "Where should I go for pani puri?",
+                "Where can I get authentic pani puri?",
+                "Pani puri restaurants near me?",
+                "Any famous pani puri spots around?",
+                "Where can I find tasty pani puri?",
+                "Top places for pani puri in this area?",
+                "Suggest some good pani puri restaurants.",
+                "Which pani puri place do you recommend?",
+                "Where to find the best pani puri in town?",
+                "Can you recommend a top pani puri spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for pani puri you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for pani puri:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top pani puri spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated pani puri places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These pani puri spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "sweets",
+            "patterns": [
+                "Where can I find the best sweets?",
+                "Recommend a place for sweets.",
+                "Top spots for sweets near me.",
+                "Where can I get delicious sweets?",
+                "Best sweets in town?",
+                "Can you suggest a good sweets place?",
+                "Which restaurant serves the best sweets?",
+                "Where to eat sweets around here?",
+                "Top-rated sweets places nearby?",
+                "What’s the best spot for sweets?",
+                "Where should I go for sweets?",
+                "Where can I get authentic sweets?",
+                "Sweets shops near me?",
+                "Any famous sweets spots around?",
+                "Where can I find tasty sweets?",
+                "Top places for sweets in this area?",
+                "Suggest some good sweets restaurants.",
+                "Which sweets place do you recommend?",
+                "Where to find the best sweets in town?",
+                "Can you recommend a top sweets spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for sweets you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for sweets:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top sweets spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated sweets places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These sweets spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
+        },
+        {
+            "tag": "fast_food",
+            "patterns": [
+                "Where can I get the best fast food?",
+                "Recommend a place for fast food.",
+                "Top spots for fast food near me.",
+                "Where can I find delicious fast food?",
+                "Best fast food in town?",
+                "Can you suggest a good fast food place?",
+                "Which restaurant serves the best fast food?",
+                "Where to eat fast food around here?",
+                "Top-rated fast food places nearby?",
+                "What’s the best spot for fast food?",
+                "Where should I go for fast food?",
+                "Where can I get authentic fast food?",
+                "Fast food restaurants near me?",
+                "Any famous fast food spots around?",
+                "Where can I find tasty fast food?",
+                "Top places for fast food in this area?",
+                "Suggest some good fast food restaurants.",
+                "Which fast food place do you recommend?",
+                "Where to find the best fast food in town?",
+                "Can you recommend a top fast food spot?"
+            ],
+            "responses": [
+                [
+                    "Here are some popular places for fast food you might enjoy:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Check out these great spots for fast food:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                        "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "You might enjoy these top fast food spots:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "Here are some top-rated fast food places:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ],
+                [
+                    "These fast food spots come highly recommended:",
+                    "1. Restaurant 1",
+                    "2. Restaurant 2",
+                    "3. Restaurant 3",
+                    "4. Restaurant 4",
+                    "5. Restaurant 5"
+                ]
+            ]
         }
     ]
   }
